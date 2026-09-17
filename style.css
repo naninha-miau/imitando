@@ -1,0 +1,27 @@
+body {
+    background-color: antiquewhite;
+}
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 19px;
+color: rgb(82, 4, 38);
+}
+
+#welcome {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 20px;
+color: deeppink;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 32px;
+color: deeppink;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+color: rgb(255, 96, 181);
+font-size: 25px;
+}
